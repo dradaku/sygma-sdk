@@ -14,10 +14,12 @@ Before running the script, ensure that you have the following:
 
 ### 1. Clone the repository
 
+**// Fix: 'git clone https://github.com/sygmaprotocol/sygma-sdk.git** 
+
 To get started, clone this repository to your local machine with:
 
 ```bash
-git clone git@github.com:sygmaprotocol/sygma-sdk.git
+git clone git@github.com/sygmaprotocol/sygma-sdk.git
 cd sygma-sdk/
 ```
 
